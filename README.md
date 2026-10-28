@@ -57,31 +57,6 @@ My work sits at the intersection of **design, development, and AI** — from des
 
 ---
 
-## 📚 Currently Learning
-
-I'm currently moving toward **AI-native full-stack development**, exploring:
-
-- Next.js
-- FastAPI
-- PostgreSQL
-- WebSockets
-- Docker
-- Redis
-- RAG architectures
-- LangChain
-- Agentic AI
-- AI-integrated full-stack applications
-
----
-
-## 🎯 What I'm Working Towards
-
-Becoming a **product-focused AI Full-Stack Developer** who can take an idea from concept and UX design all the way to a production-ready application.
-
-> **Good software should work well. Great software should also feel good to use.**
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in building interesting products, collaborating on ideas, and learning new technologies.
